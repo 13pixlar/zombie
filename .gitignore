@@ -21,7 +21,7 @@ wp-content/*
 node_modules/
 .sass-cache/
 wp-docs/
-wp-content/themes/wp-zombie/package-lock.json
+wp-content/themes/zombie/package-lock.json
 
 # Ignore dist folder
 wp-content/themes/*/dist/*
