@@ -8,6 +8,7 @@ wp-content/themes/*/css/*.min*.*
 !.gitignore
 !wp-content/
 !readme.md
+!README.md
 
 # Ignore everything in the "wp-content" directory, except the "plugins" and "themes" directories.
 wp-content/*
