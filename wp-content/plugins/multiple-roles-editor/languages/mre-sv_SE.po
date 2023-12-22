@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Sticky List\n"
+"POT-Creation-Date: 2015-10-27 09:37+0100\n"
+"PO-Revision-Date: 2015-10-27 09:38+0100\n"
+"Last-Translator: Adam Rehal <adam.rehal@nineyards.se>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../multiple-roles-editor.php:40
+msgid "Select role"
+msgstr "Välj roll"
+
+#: ../multiple-roles-editor.php:48
+msgid "Add/remove role"
+msgstr "Lägg till/ta bort roll"
+
+#: ../multiple-roles-editor.php:69
+msgid "Add"
+msgstr "Lägg till"
+
+#: ../multiple-roles-editor.php:70
+msgid "Remove"
+msgstr "Ta bort"
+
+#: ../multiple-roles-editor.php:76
+msgid "Add new role"
+msgstr "Lägg till ny roll"
+
+#: ../multiple-roles-editor.php:77
+msgid "Remove exisiting role"
+msgstr "Ta bort befintlig roll"
+
+#: ../multiple-roles-editor.php:90
+msgid "Added role to users"
+msgstr "La till roll till användare"
+
+#: ../multiple-roles-editor.php:90 ../multiple-roles-editor.php:101
+#: ../multiple-roles-editor.php:107 ../multiple-roles-editor.php:118
+#: ../multiple-roles-editor.php:127
+msgid "Dismiss this notice."
+msgstr "Göm denna ruta"
+
+#: ../multiple-roles-editor.php:101
+msgid "You can not remove administrator roles"
+msgstr "Du kan inte ta bort administratörsroller"
+
+#: ../multiple-roles-editor.php:107
+msgid "Removed role from users"
+msgstr "Tog bort roll från användare"
+
+#: ../multiple-roles-editor.php:118
+msgid "Added new role"
+msgstr "La till en ny roll"
+
+#: ../multiple-roles-editor.php:127
+msgid "Removed existing role"
+msgstr "Tog bort en befintlig roll"
+
+#: ../multiple-roles-editor.php:134
+msgid "Other roles"
+msgstr "Andra roller"
+
+#~ msgid "users were assigned new roles"
+#~ msgstr "användare fick nya roller"
+
+#~ msgid "were assigned new roles"
+#~ msgstr "fick nya roller"
+
+#~ msgid "Were assigned new roles"
+#~ msgstr "fick nya roller."
+
+#~ msgid "Show in list"
+#~ msgstr "Visa i listan"
+
+#~ msgid "Dont wrap text from this field"
+#~ msgstr "Avstava inte text från detta fält"
+
+#~ msgid "Column label"
+#~ msgstr "Kolumnrubrik"
+
+#~ msgid "<h6>Show field in list</h6>Check this box to show this field in the list."
+#~ msgstr "<h6>Visa fält i listan</h6>Markera denna ruta för att visa fältet i listan"
+
+#~ msgid "<h6>Dont wrap whitespace</h6>Check this box to prevent wraping of text from this field"
+#~ msgstr "<h6>Avstava inte text</h6>Markera denna ruta för att förhindra avstavning av texten i listan hämtad från detta fält"
+
+#~ msgid "<h6>Header text</h6>Use this field to override the default text header."
+#~ msgstr "<h6>Fältrubrik</h6>Använd detta fält för att ersätta fältets rubrik i listan"
+
+#~ msgid "Search"
+#~ msgstr "Sök"
+
+#~ msgid "Delete failed"
+#~ msgstr "Raderingen misslyckades"
+
+#~ msgid "General settings"
+#~ msgstr "Generella inställningar"
+
+#~ msgid "View, edit, delete & duplicate"
+#~ msgstr "Visa, redigera, radera & duplicera"
+
+#~ msgid "Labels"
+#~ msgstr "Texter"
+
+#~ msgid "Sort & search"
+#~ msgstr "Sortering & sökning"
+
+#~ msgid "Pagination"
+#~ msgstr "Paginering"
+
+#~ msgid "Donate"
+#~ msgstr "Donera"
+
+#~ msgid "Sticky List is completely free. But if you like, you can always <a target=\"_blank\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8R393YVXREFN6\">donate</a> a few bucks."
+#~ msgstr "Sticky List är helt gratis men om du vill så får du gärna <a target=\"_blank\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8R393YVXREFN6\">donera</a> några kronor."
+
+#~ msgid "Date added"
+#~ msgstr "Datum"
+
+#~ msgid "Field "
+#~ msgstr "Fält"
+
+#~ msgid "Everyone"
+#~ msgstr "Alla"
+
+#~ msgid "All logged in users"
+#~ msgstr "Alla inloggade användare"
+
+#~ msgid "Entry creator"
+#~ msgstr "Innläggsförfattaren"
+
+#~ msgid "Sticky List Settings"
+#~ msgstr "Sticky List inställningar"
+
+#~ msgid "Enable for this form"
+#~ msgstr "Aktivera för detta formulär"
+
+#~ msgid "Check this box to enable Sticky List for this form"
+#~ msgstr "Markera denna ruta för att aktivera Sticky List för detta formulär"
+
+#~ msgid "Show entries in list to"
+#~ msgstr "Visa inlägg i listan för"
+
+#~ msgid "Select who should be able to se the entries in the list. Administrators will always see all entries"
+#~ msgstr "Välj vem skall kunna se inläggen i listan. Administratörer ser alltid alla inlägg"
+
+#~ msgid "Embedd page/post"
+#~ msgstr "Inbäddnings-sida/inlägg"
+
+#~ msgid "The page/post where the form is embedded. This page will be used to view/edit the entry"
+#~ msgstr "Sidan eller inlägget där formuläret än inbäddat. Denna sida används för att visa/redigera inlägget"
+
+#~ msgid "Custom url"
+#~ msgstr "Egen url"
+
+#~ msgid "Manually input the url of the form. This overrides the selection made in the dropdown above. Use this if you cannot find the page/post in the list."
+#~ msgstr "Lägg in formulärets url manuellt. Detta overridar valet du gjort ovan. Du kan använda detta om du inte kan hitta din sida/inlägg i listan."
+
+#~ msgid "Max nr of entries"
+#~ msgstr "Max antal inlägg"
+
+#~ msgid "Maximum number of entries to be shown in the list."
+#~ msgstr "Maximalt antal inlägg att visa i listan"
+
+#~ msgid "Make files clickable"
+#~ msgstr "Gör filer klickbara"
+
+#~ msgid "Check this box to make uploaded files that are shown in the list clickable"
+#~ msgstr "Markera denna ruta för göra uppladdade filer klickbara i listan"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktivera"
+
+#~ msgid "Link to post"
+#~ msgstr "Länk till post"
+
+#~ msgid "Check this box to insert a link to the WordPress post in the action column. Only applicable if the list actually contains WordPress posts."
+#~ msgstr "Markera denna ruta om du vill inkludera en länk till ett WordPress inlägg. Fungerar endast om listan innehåller inlägg eller andra posttyper."
+
+#~ msgid "Link label"
+#~ msgstr "Länktext"
+
+#~ msgid "Label for the post link."
+#~ msgstr "Text för länken"
+
+#~ msgid "Post"
+#~ msgstr "Inlägg"
+
+#~ msgid "View entries"
+#~ msgstr "Visa inlägg"
+
+#~ msgid "Check this box to enable users to view the complete submitted entry. A \"View\" link will appear in the list"
+#~ msgstr "Markera denna ruta för att låta användare visa inlägget. En \"Visa\"-länk visas i listan"
+
+#~ msgid "View label"
+#~ msgstr "Visa-text"
+
+#~ msgid "Label for the view button"
+#~ msgstr "Text för visa-knappen"
+
+#~ msgid "View"
+#~ msgstr "Visa"
+
+#~ msgid "Edit entries"
+#~ msgstr "Redigera inlägg"
+
+#~ msgid "Check this box to enable user to edit submitted entries. An \"Edit\" link will appear in the list"
+#~ msgstr "Markera denna ruta för att låta användare redigera inlägget. En \"Redigera\"-länk visas i listan"
+
+#~ msgid "Edit label"
+#~ msgstr "Redigera-text"
+
+#~ msgid "Label for the edit button"
+#~ msgstr "Text för redigera-knappen"
+
+#~ msgid "Edit"
+#~ msgstr "Redigera"
+
+#~ msgid "Update button text"
+#~ msgstr "Uppdatera-knappens text"
+
+#~ msgid "Text for the submit button that is displayed when editing an entry"
+#~ msgstr "Text för knappen som visas när ett inlägg redigeras"
+
+#~ msgid "Update"
+#~ msgstr "Uppdatera"
+
+#~ msgid "New entry ID"
+#~ msgstr "Nytt inläggsID"
+
+#~ msgid "Check this box to give an edited entry a new ID every time it is updated."
+#~ msgstr "Markera denna ruta för att ge varje redigerat inlägg ett nytt ID när det uppdaterats."
+
+#~ msgid "Delete entries"
+#~ msgstr "Ta bort inlägg"
+
+#~ msgid "Check this box to enable user to delete submitted entries. A \"Delete\" link will appear in the list"
+#~ msgstr "Markera denna ruta för att låta användare ta bort inlägget. En \"Ta bort\"-länk visas i listan"
+
+#~ msgid "Delete label"
+#~ msgstr "Ta bort-text"
+
+#~ msgid "Label for the delete button"
+#~ msgstr "Text för ta bort-knappen"
+
+#~ msgid "Delete"
+#~ msgstr "Ta bort"
+
+#~ msgid "Confirm delete"
+#~ msgstr "Bekräfta radering"
+
+#~ msgid "Check this box require deletions to be confirmed by clicking OK in a dialog box"
+#~ msgstr "Markera denna ruta för att visa en bekräftelsedialog när ett inlögg skall raderas"
+
+#~ msgid "Confirm delete text"
+#~ msgstr "Bekräftelsetext"
+
+#~ msgid "Text for the confirm delete dialog box"
+#~ msgstr "Text att visa i brkäftelsen"
+
+#~ msgid "Really delete this entry?"
+#~ msgstr "Radera detta inlägg?"
+
+#~ msgid "On delete"
+#~ msgstr "Vid radering"
+
+#~ msgid "Move deleted entries to trash or delete permanently?"
+#~ msgstr "Flytta till papperskorgen eller ta bort permanent?"
+
+#~ msgid "Move to trash"
+#~ msgstr "Flytta till papperskorgen"
+
+#~ msgid "Delete permanently"
+#~ msgstr "Radera permanent"
+
+#~ msgid "Duplicate entries"
+#~ msgstr "Duplicera inlägg"
+
+#~ msgid "Check this box to enable user to duplicate entries in the list. A \"Duplicate\" link will appear in the list that allows the user to use an existing entry as a template for a new one."
+#~ msgstr "Markera denna ruta för att låta användare duplicera inlägg. En \"Duplucera\"-länk visas i listan"
+
+#~ msgid "Duplicate label"
+#~ msgstr "Duplicera-text"
+
+#~ msgid "Label for the duplicate button"
+#~ msgstr "Text för duplicera-knappen"
+
+#~ msgid "Duplicate"
+#~ msgstr "Duplicera"
+
+#~ msgid "Action column header"
+#~ msgstr "Text för sista kolumnen"
+
+#~ msgid "Text to show as header for the action column"
+#~ msgstr "Text att visa som rubrik i den sista kolumnen som innehåller Visa-, Redigera- och Ta bort-knapparna"
+
+#~ msgid "Empty list text"
+#~ msgstr "Text för tom lista"
+
+#~ msgid "Text that is shown if the list is empty"
+#~ msgstr "Text som visas när listan är tom"
+
+#~ msgid "The list is empty. You can edit or remove this text in settings"
+#~ msgstr "Listan är tom. Du kan redigera eller ta bort denna text under inställningar"
+
+#~ msgid "List sort"
+#~ msgstr "Sortering"
+
+#~ msgid "Check this box to enable sorting for the list"
+#~ msgstr "Markera denna ruta för att aktivera sorterimg av listan"
+
+#~ msgid "Initial sort by"
+#~ msgstr "Initial sortering"
+
+#~ msgid "Initially sort the list by a specific field or by date added. "
+#~ msgstr "Sortera listan initialt efter ett fält eller efter datum då inlägget skapades."
+
+#~ msgid "Sort direction"
+#~ msgstr "Sorteringsriktning"
+
+#~ msgid "Select the direction in which the list should be sorted when first rendered"
+#~ msgstr "Välj riktning för sorteringen i listan när den först visas."
+
+#~ msgid "Descending"
+#~ msgstr "Fallande"
+
+#~ msgid "Ascending"
+#~ msgstr "Stigande"
+
+#~ msgid "List search"
+#~ msgstr "Sökning i listan"
+
+#~ msgid "Check this box to enable search for the list"
+#~ msgstr "Markera denna ruta för att aktivera sökning i listan"
+
+#~ msgid "List pagination"
+#~ msgstr "Paginering i listan"
+
+#~ msgid "Check this box to enable pagination for the list"
+#~ msgstr "Markera denna ruta för att aktivera paginering i listan"
+
+#~ msgid "Entries per page"
+#~ msgstr "Inlägg per sida"
+
+#~ msgid "Number of entries to be shown on each page."
+#~ msgstr "Antal inlägg att visa på varje sida."
+
+#~ msgid "Always"
+#~ msgstr "Alltid"
+
+#~ msgid "When a new entry is submitted"
+#~ msgstr "När ett nytt inlägg skapas"
+
+#~ msgid "When an entry is updated"
+#~ msgstr "När ett inlägg  uppdaterats"
+
+#~ msgid "When an entry is deleted"
+#~ msgstr "När ett inlägg raderats"
+
+#~ msgid "Send this notification"
+#~ msgstr "Skicka denna notifikation"
+
+#~ msgid "Never"
+#~ msgstr "Aldrig"
+
+#~ msgid "Display this confirmation"
+#~ msgstr "Visa denna bekräftelse"
+
+#~ msgid "View, edit & delete"
+#~ msgstr "Visa, redigera & radera"
+
+#~ msgid "Who should be able to se the entries in the list?"
+#~ msgstr "Vem skall kunna se inläggen i listan?"
+
+#~ msgid "Check this box to enable users to view the complete submitted entry. A \\\"View\\\" link will appear in the list"
+#~ msgstr "Markera denna ruta för att låta användare visa inlägget. En \"Visa\"-länk visas i listan"
+
+#~ msgid "Check this box to enable user to edit submitted entries. An \\\"Edit\\\" link will appear in the list"
+#~ msgstr "Markera denna ruta för att låta användare redigera inlägget. En \"Redigera\"-länk visas i listan"
+
+#~ msgid "Check this box to enable user to delete submitted entries. A \\\"Delete\\\" link will appear in the list"
+#~ msgstr "Markera denna ruta för att låta användare ta bort inlägget. En \"Ta bort\"-länk visas i listan"
+
+#~ msgid "Mumber of entries to be shown on each page."
+#~ msgstr "Antal inlägg att visa på varje sida"
+
+#~ msgid "Wellcome to the Sticky List beta. This page will contain info, usage instructions and more!"
+#~ msgstr "Välkommen till Sticky List betan..."

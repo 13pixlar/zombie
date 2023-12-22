@@ -1,0 +1,309 @@
+body.post-type-gfchart div#TB_window[style] {
+	width: 530px !important;
+	margin-left: -202px !important;
+}
+
+body.post-type-gfchart #TB_ajaxContent {
+	height: 265px !important;
+	overflow: hidden;
+}
+
+body.post-type-gfchart #gform-field-filters .gform-field-filter{
+  text-align: left;
+}
+
+
+.gf_new_chart_modal_container {
+	padding: 30px;
+}
+
+.gf_new_chart_modal_container .setting-row {
+	margin: 0 0 10px;
+}
+
+.gf_new_chart_modal_container .setting-row label {
+	line-height: 24px;
+}
+
+.gf_new_chart_modal_container .setting-row input,
+.gf_new_chart_modal_container .setting-row textarea,
+.gf_new_chart_modal_container .setting-row select{
+	display: block;
+	width: 100%;
+}
+
+.gf_new_chart_modal_container .setting-row textarea {
+	height: 110px;
+}
+
+.gf_new_chart_modal_container .submit-row {
+	margin-top: 38px;
+}
+
+.gf_new_chart_modal_container #gf_new_chart_error_message {
+	margin: 0 0 18px 5px !important;
+	color: #BC0B0B;
+}
+
+.gf_new_chart_modal_container img.gfspinner {
+	position: relative;
+	top: 5px;
+	left: 5px;
+}
+
+.gf_not_ready {
+	opacity: 0.25;
+}
+
+.gfchart-config-section {
+
+	margin-top: 50px;
+
+}
+
+#gfchart-view-configuration-tabs h2.nav-tab-wrapper {
+    padding: 0px 0px 3px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+#gfchart-config-section-design .dashicons {
+	font-size: 100px;
+	width: 100px;
+	height: 100px;
+	position: relative;
+}
+
+#gfchart-config-section-design .icon-chart-calc {
+	height:100px;
+}
+
+#gfchart-config-section-design .icon-chart-calc:before {
+	vertical-align: sub;
+}
+
+#gfchart-config-section-design .fa-5-half-x {
+	font-size: 5.5em;
+}
+
+.gfchart-chart-type-choice {
+	display: inline-block;
+	text-align: center;
+	margin-right: 40px;
+}
+
+
+#gfchart-config-section-design .comingsoon h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  color: black;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 1.5rem;
+  transform: translate(-50%, -50%);
+	opacity: 0.4;
+}
+
+#gfchart-chart-type-pie-basic-settings input[name="gfchart_config[style]"],
+#gfchart-chart-type-bar-basic-settings input[name="gfchart_config[orientation]"],
+#gfchart-bar-select-data input[name="gfchart_config[sort-type]"],
+#gfchart-bar-select-data input[name="gfchart_config[sortby]"] {
+	margin-right:20px;
+}
+
+.gfchart-chart-type-basic-settings h1/*, .gfchart-customiser-settings*/ {
+
+	font-weight: bold;
+}
+
+.gfchart-remove,
+.gfchart-add {
+    margin-top: 2px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.gfchart-add {
+    margin-left: 5px;
+}
+
+#gfchart-bar-yaxis-auto { display:none;}
+
+.gfchart-config-tab-nav-button {
+	position: relative;
+	margin: 0;
+	padding-left: 14px;
+	padding-right: 14px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background: #0d5287;
+	color: white;
+	font-size: 13px;
+	border: none;
+	text-decoration: none;
+	line-height: 26px;
+	height: 28px;
+	padding: 0 10px 1px;
+	display: inline-block;
+}
+
+.gfchart-config-tab-nav-button::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	width: 0;
+	height: 0;
+}
+
+.gfchart-config-tab-nav-button:hover {
+	background: #0585e8;
+	color: white;
+}
+
+#gfchart_config .column {
+    float: left;
+    padding-right: 10px;
+}
+
+#gfchart_config .form-table input[type="radio"] {
+    margin-top: 0;
+}
+
+/* Arrow Buttons */
+/* ------------- */
+.gfchart-config-tab-nav-button-next::after,
+.gfchart-config-tab-nav-button-prev::after {
+	border-style: solid;
+}
+
+/* Next Button */
+/* ----------- */
+.gfchart-config-tab-nav-button-next::after {
+	right: -17px;
+	border-top: 15px solid transparent;
+	border-bottom: 14px solid transparent;
+	border-left: 14px solid #0d5287;
+}
+
+.gfchart-config-tab-nav-button-next:hover::after {
+	border-left-color: #0585e8;
+}
+
+/* Prev Button */
+/* ----------- */
+.gfchart-config-tab-nav-button-prev::after {
+	left: -17px;
+	border-top: 15px solid transparent;
+	border-bottom: 14px solid transparent;
+	border-right: 14px solid #0d5287;
+}
+
+.gfchart-config-tab-nav-button-prev:hover::after {
+	border-right-color: #0585e8;
+}
+
+.gfchart-config-tab-nav {
+    display: table;
+    width:  100%;
+    height: 100%;
+	margin-top:50px;
+}
+
+.gfchart-config-tab-nav-item {
+    display: table-cell;
+    vertical-align: middle;
+    width: 33%;
+}
+
+.gfchart-config-tab-nav-item.gfchart-config-tab-nav-save {
+    text-align: center;
+}
+
+.gfchart-config-tab-nav-item.gfchart-config-tab-nav-next {
+    text-align: right;
+}
+
+#gfchart-config-section-preview .bar-main-container {
+  margin: 10px auto;
+  width: 100%;
+  height: 60px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 0.8em;
+  color: #FFF;
+  background: rgba(0,0,0,0.03);
+}
+
+#gfchart-config-section-preview .bar-wrap { padding: 8px; }
+
+#gfchart-config-section-preview .bar-percentage {
+  /*float: left;*/
+  /*background: rgba(0,0,0,0.13);*/
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  /*padding: 9px 0px;*/
+  width: 99%;
+  height: 16px;
+  color: #25aa5a;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+#gfchart-config-section-preview .bar-percentage .percentage, .bar-percentage .goal {
+  display: inline-block;
+}
+
+#gfchart-config-section-preview .bar-percentage .percentage {
+  float: left;
+}
+
+#gfchart-config-section-preview .bar-percentage .goal {
+  float:right;
+}
+
+#gfchart-config-section-preview .bar-container {
+  /*float: right;*/
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  height: 10px;
+  background: rgba(0,0,0,0.13);
+  width: 99%;
+  margin: 12px 0px;
+  overflow: hidden;
+}
+
+#gfchart-config-section-preview .the-bar {
+  float: left;
+  background: #25aa5a;
+  height: 100%;
+  -webkit-border-radius: 2px 0px 0px 2px;
+  -moz-border-radius: 2px 0px 0px 2px;
+  border-radius: 2px 0px 0px 2px;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: alpha(opacity=100);
+  -moz-opacity: 1;
+  -khtml-opacity: 1;
+  opacity: 1;
+}
+
+/* Core "Add New" Button  */
+/* ----------- */
+.post-type-gfchart a.page-title-action {
+    display: none;
+}
+
+/* Breakpoint Styles */
+/* ----------- */
+@media screen and (min-width: 783px) {
+    #gfchart_config .form-table th {
+        padding-left: 10px;
+    }
+}

@@ -1,0 +1,702 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GFChart\n"
+"POT-Creation-Date: 2021-04-21 00:22-0400\n"
+"PO-Revision-Date: 2016-05-16 16:49-0500\n"
+"Last-Translator: Naomi C. Bush <hello@naomicbush.com>\n"
+"Language-Team: gravity+ <support@gravityplus.pro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../includes\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blocks/chart/class-block-chart.php:108 class-shortcode-adder.php:78
+msgid "Select a Chart/Calculation"
+msgstr ""
+
+#: blocks/chart/class-block-chart.php:173 class-shortcode-processor.php:117
+msgid "No chart ID given"
+msgstr ""
+
+#: blocks/chart/class-block-chart.php:207 class-shortcode-processor.php:175
+msgid "No data found"
+msgstr ""
+
+#: blocks/chart/editor-chart.js:21 blocks/chart/editor-chart.js:79
+msgid "Chart"
+msgstr ""
+
+#: blocks/chart/editor-chart.js:22
+msgid "Select a chart below to add it to your page"
+msgstr ""
+
+#: blocks/chart/editor-chart.js:26
+msgid "chart"
+msgstr ""
+
+#: blocks/chart/editor-chart.js:26
+msgid "gfchart"
+msgstr ""
+
+#: blocks/chart/editor-chart.js:26
+msgid "gravity"
+msgstr ""
+
+#: class-addon.php:138 class-addon.php:202
+msgid "Enter your license key that was emailed with your purchase."
+msgstr ""
+
+#: class-addon.php:139 class-addon.php:203
+msgid "License Key"
+msgstr ""
+
+#: class-addon.php:149 class-addon.php:166 class-addon.php:214
+msgid "Clear"
+msgstr ""
+
+#: class-addon.php:155 class-addon.php:183 class-addon.php:241
+msgid "License key updated"
+msgstr ""
+
+#: class-addon.php:173 class-addon.php:234
+msgid "License key cleared"
+msgstr ""
+
+#: class-addon.php:181
+msgid "Deactivate"
+msgstr ""
+
+#: class-addon.php:181
+msgid "Activate"
+msgstr ""
+
+#: class-addon.php:183
+msgid "License key activated"
+msgstr ""
+
+#: class-addon.php:189
+msgid "License"
+msgstr ""
+
+#: class-addon.php:190
+msgid "This provides you access to support and automatic updates"
+msgstr ""
+
+#: class-addon.php:275
+msgid "Update Settings"
+msgstr ""
+
+#: class-addon.php:440 class-addon.php:507
+msgid "Error receiving a response from license server"
+msgstr ""
+
+#: class-addon.php:450
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: class-addon.php:458
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: class-addon.php:464
+msgid "Invalid license."
+msgstr ""
+
+#: class-addon.php:471
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: class-addon.php:477
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: class-addon.php:483
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: class-addon.php:489
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: class-addon.php:511
+msgid "Unable to deactivate key"
+msgstr ""
+
+#: class-addon.php:515
+msgid "Unknown error"
+msgstr ""
+
+#: class-cpt.php:171
+msgid ""
+"To display chart, copy the folllowing shortcode and paste it in your "
+"desired location."
+msgstr ""
+
+#: class-cpt.php:220 class-cpt.php:224
+msgid "Charts/Calculations"
+msgstr ""
+
+#: class-cpt.php:221 class-cpt.php:225
+msgid "Chart/Calculation"
+msgstr ""
+
+#: class-cpt.php:222 class-cpt.php:228
+msgid "Edit Chart/Calculation"
+msgstr ""
+
+#: class-cpt.php:223 class-cpt.php:229
+msgid "View Chart/Calculation"
+msgstr ""
+
+#: class-cpt.php:226
+msgid "Add New Chart/Calculation"
+msgstr ""
+
+#: class-cpt.php:227
+msgid "New Chart/Calculation"
+msgstr ""
+
+#: class-cpt.php:230
+msgid "All Charts/Calculations"
+msgstr ""
+
+#: class-cpt.php:231
+msgid "Search Charts/Calculations"
+msgstr ""
+
+#: class-cpt.php:232
+msgid "No charts/calculations found."
+msgstr ""
+
+#: class-cpt.php:233
+msgid "No charts/calculations found in Trash."
+msgstr ""
+
+#: class-cpt.php:234
+msgid "Filter charts/calculations list"
+msgstr ""
+
+#: class-cpt.php:235
+msgid "Charts/Calculations list navigation"
+msgstr ""
+
+#: class-cpt.php:236
+msgid "Charts/Calculations list"
+msgstr ""
+
+#: class-cpt.php:241
+msgid "A GFChart CPT for storing chart/calculations settings"
+msgstr ""
+
+#: class-cpt.php:420
+msgid "Type"
+msgstr ""
+
+#: class-cpt.php:421
+msgid "Form"
+msgstr ""
+
+#: class-cpt.php:422
+msgid "Shortcode"
+msgstr ""
+
+#: class-cpt.php:423
+msgid "Page"
+msgstr ""
+
+#: class-cpt.php:537
+msgid "Edit Page"
+msgstr ""
+
+#: class-cpt.php:537
+msgid "Edit"
+msgstr ""
+
+#: class-cpt.php:537
+msgid "View Page"
+msgstr ""
+
+#: class-cpt.php:537
+msgid "View"
+msgstr ""
+
+#: class-cpt.php:643
+#, php-format
+msgid "Clone &#8220;%s&#8221;"
+msgstr ""
+
+#: class-cpt.php:643
+msgid "Clone"
+msgstr ""
+
+#: class-cpt.php:712 class-cpt.php:743 class-cpt.php:1163
+msgid "There was an issue creating your chart."
+msgstr ""
+
+#: class-cpt.php:722
+msgid "Please enter a chart title."
+msgstr ""
+
+#: class-cpt.php:762
+msgid "No chart ID"
+msgstr ""
+
+#: class-cpt.php:768
+msgid "You don't have permission to clone this chart."
+msgstr ""
+
+#: class-cpt.php:776
+#, php-format
+msgid "Unable to find chart with ID #%d"
+msgstr ""
+
+#: class-cpt.php:803
+msgid "Chart clone failed"
+msgstr ""
+
+#: class-cpt.php:820
+msgid "GFChart Configuration"
+msgstr ""
+
+#: class-cpt.php:841 views/config-sections/customiser/chart-type-pie.php:6
+#: views/config-sections/design/chart-type-pie.php:6
+#: views/config-sections/select-data/chart-type-pie.php:7
+msgid "Pie"
+msgstr ""
+
+#: class-cpt.php:850 views/config-sections/customiser/chart-type-bar.php:6
+#: views/config-sections/design/chart-type-bar.php:6
+#: views/config-sections/select-data/chart-type-bar.php:6
+msgid "Bar"
+msgstr ""
+
+#: class-cpt.php:859 views/config-sections/customiser/chart-type-calc.php:6
+#: views/config-sections/design/chart-type-calc.php:6
+#: views/config-sections/select-data/chart-type-calc.php:6
+msgid "Calculation"
+msgstr ""
+
+#: class-cpt.php:868
+#: views/config-sections/customiser/chart-type-progressbar.php:6
+#: views/config-sections/design/chart-type-progressbar.php:6
+#: views/config-sections/select-data/chart-type-progressbar.php:6
+msgid "Progress Bar"
+msgstr ""
+
+#: class-cpt.php:891
+msgid "Design"
+msgstr ""
+
+#: class-cpt.php:892
+msgid "Select data"
+msgstr ""
+
+#: class-cpt.php:893
+msgid "Customiser"
+msgstr ""
+
+#: class-cpt.php:896
+msgid "Preview"
+msgstr ""
+
+#: class-cpt.php:1153
+msgid "Unable to retrieve data. No chart ID given"
+msgstr ""
+
+#: class-cpt.php:1276
+msgid "Selected"
+msgstr ""
+
+#: class-cpt.php:1390
+msgid "Workflow Status"
+msgstr ""
+
+#: class-cpt.php:1395
+msgid "Created By User"
+msgstr ""
+
+#: class-cpt.php:1420
+msgid "Created By User Role"
+msgstr ""
+
+#: class-cpt.php:1430
+msgid "Approval Status"
+msgstr ""
+
+#: class-data-retriever.php:50 class-data-retriever.php:142
+msgid "No data."
+msgstr ""
+
+#: class-data-retriever.php:129
+msgid "Error obtaining data."
+msgstr ""
+
+#: class-import-export.php:84
+msgid "GFCharts imported"
+msgstr ""
+
+#: class-plugin-updater.php:250
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: class-plugin-updater.php:258
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: class-plugin-updater.php:502
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: class-plugin-updater.php:502
+msgid "Error"
+msgstr ""
+
+#: class-shortcode-adder.php:53
+msgid "Please select a chart."
+msgstr ""
+
+#: class-shortcode-adder.php:93
+msgid "Can't find your chart/calculation? Make sure it is published."
+msgstr ""
+
+#: class-shortcode-adder.php:145
+msgid "Add GFChart"
+msgstr ""
+
+#: class-shortcode-adder.php:145
+msgid "Add Chart"
+msgstr ""
+
+#: class-shortcode-adder.php:174
+msgid "Please select a chart"
+msgstr ""
+
+#: views/add-new-chart-modal.php:11
+msgid "Chart/Calculation Title"
+msgstr ""
+
+#: views/add-new-chart-modal.php:21
+#: views/config-sections/select-data/chart-type-bar.php:13
+#: views/config-sections/select-data/chart-type-calc.php:13
+#: views/config-sections/select-data/chart-type-pie.php:14
+#: views/config-sections/select-data/chart-type-progressbar.php:13
+msgid "Source Form"
+msgstr ""
+
+#: views/add-new-chart-modal.php:37
+msgid "Create Chart/Calculation"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-bar.php:11
+#: views/config-sections/customiser/chart-type-pie.php:10
+msgid "Chart title"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-bar.php:24
+#: views/config-sections/customiser/chart-type-pie.php:17
+msgid "Chart height"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-bar.php:31
+#: views/config-sections/customiser/chart-type-pie.php:24
+msgid "Chart width"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-bar.php:38
+#: views/config-sections/customiser/chart-type-pie.php:31
+msgid "Responsive"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-bar.php:46
+msgid "Horizontal axis label"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-bar.php:53
+msgid "Vertical axis label"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-bar.php:80
+#: views/config-sections/customiser/chart-type-pie.php:39
+msgid "Additional code"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-calc.php:10
+msgid "Number format"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-calc.php:15
+#: views/config-sections/customiser/chart-type-progressbar.php:15
+msgid "Currency"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-calc.php:20
+msgid "Rounding"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-calc.php:28
+msgid "Do not round"
+msgstr ""
+
+#: views/config-sections/customiser/chart-type-progressbar.php:10
+msgid "Goal display format"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:10
+msgid "Orientation"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:12
+msgid "Vertical"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:16
+msgid "Horizontal"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:24
+#: views/config-sections/design/chart-type-pie.php:29
+msgid "Legend"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:27
+#: views/config-sections/design/chart-type-pie.php:32
+msgid "None"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:29
+#: views/config-sections/design/chart-type-pie.php:34
+msgid "Bottom"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:31
+#: views/config-sections/design/chart-type-pie.php:36
+msgid "Top"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:32
+#: views/config-sections/design/chart-type-pie.php:37
+msgid "Right"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:34
+#: views/config-sections/design/chart-type-pie.php:39
+msgid "Left"
+msgstr ""
+
+#: views/config-sections/design/chart-type-bar.php:35
+msgid "In"
+msgstr ""
+
+#: views/config-sections/design/chart-type-pie.php:10
+msgid "Style"
+msgstr ""
+
+#: views/config-sections/design/chart-type-pie.php:12
+msgid "Default"
+msgstr ""
+
+#: views/config-sections/design/chart-type-pie.php:16
+msgid "Donut"
+msgstr ""
+
+#: views/config-sections/design/chart-type-pie.php:20
+msgid "3D"
+msgstr ""
+
+#: views/config-sections/design/chart-type-pie.php:41
+msgid "Labeled"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:20
+#: views/config-sections/select-data/chart-type-bar.php:47
+msgid "x-axis"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:20
+msgid "main field"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:47
+msgid "segment"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:64
+msgid "beside"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:67
+msgid "stack absolute"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:70
+msgid "stack percent"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:77
+msgid "y-axis"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:78
+msgid "Count or sum entries?"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:80
+#: views/config-sections/select-data/chart-type-calc.php:41
+msgid "count"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:81
+#: views/config-sections/select-data/chart-type-calc.php:42
+msgid "sum"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:87
+msgid "Field to sum"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:87
+msgid "if different from x-axis main field"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:105
+msgid "Sort by"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:107
+msgid "Label"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:111
+msgid "Value"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:119
+msgid "Sort type"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:121
+msgid "Ascending"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:126
+msgid "Descending"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:134
+msgid "Show zero values?"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:134
+msgid "unsegmented data only"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:141
+#: views/config-sections/select-data/chart-type-calc.php:50
+#: views/config-sections/select-data/chart-type-pie.php:39
+msgid "Entries for logged-in user only?"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:150
+#: views/config-sections/select-data/chart-type-calc.php:60
+#: views/config-sections/select-data/chart-type-pie.php:49
+msgid "Payment Status"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:164
+#: views/config-sections/select-data/chart-type-calc.php:74
+#: views/config-sections/select-data/chart-type-pie.php:64
+msgid "Date Range (optional)"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:171
+#: views/config-sections/select-data/chart-type-calc.php:80
+#: views/config-sections/select-data/chart-type-pie.php:70
+msgid "Start"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:177
+#: views/config-sections/select-data/chart-type-calc.php:86
+#: views/config-sections/select-data/chart-type-pie.php:76
+msgid "End"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:184
+#: views/config-sections/select-data/chart-type-calc.php:93
+#: views/config-sections/select-data/chart-type-pie.php:83
+msgid "Enable additional filters?"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-bar.php:190
+#: views/config-sections/select-data/chart-type-calc.php:99
+#: views/config-sections/select-data/chart-type-pie.php:89
+msgid "This requires Javascript to be enabled."
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-calc.php:20
+#: views/config-sections/select-data/chart-type-pie.php:21
+msgid "Field"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-calc.php:38
+msgid "Calculation type"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-calc.php:43
+msgid "avg"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-calc.php:44
+msgid "count unique"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-progressbar.php:19
+msgid "Total (choose Calculation Chart)"
+msgstr ""
+
+#: views/config-sections/select-data/chart-type-progressbar.php:38
+msgid "Goal"
+msgstr ""
+
+#: views/gfchart-configuration-metabox.php:27
+msgid "Error:"
+msgstr ""
+
+#: views/gfchart-configuration-metabox.php:27
+#, php-format
+msgid ""
+"Unknown Payment Status option \"%s\". To fix, go to the \"Select data\" "
+"tab, pick a valid status from the dropdown menu, and then save."
+msgstr ""
+
+#: views/gfchart-configuration-metabox.php:101
+msgid "Preview chart/calculation"
+msgstr ""
+
+#: views/templates/edit-shortcode-form.tpl.php:5
+msgid "Insert a Chart/Calculation"
+msgstr ""
+
+#: views/templates/edit-shortcode-form.tpl.php:14
+msgid "Update Chart/Calculation"
+msgstr ""
+
+#: views/templates/edit-shortcode-form.tpl.php:15
+msgid "Insert Chart/Calculation"
+msgstr ""
+
+#: views/templates/edit-shortcode-form.tpl.php:16
+msgid "Cancel"
+msgstr ""

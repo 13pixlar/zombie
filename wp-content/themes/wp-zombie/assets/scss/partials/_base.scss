@@ -1,0 +1,29 @@
+// Fonts
+@font-face {
+font-family: 'WebFont';
+src: url('../fonts/font.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/font.woff') format('woff'),
+    url('../fonts/font.svg#svgFontName') format('svg');
+}
+body {
+    font-family: "WebFont", "Arial", sans-serif;
+    background-color: #fff;
+}
+/* body.page-template-page-onboarding {
+	background-color: #f5f5f5;
+} */
+h1, .h1 {
+    font-size: 2rem;
+}
+h2, .h2 {
+    font-size: 2.4rem;
+}
+h3, .h3 {
+    font-size: 1.5rem;
+}
+h4, .h4 {
+    font-size: 1.3rem;
+}
+h5, .h5 {
+    font-size: 1rem;
+}
